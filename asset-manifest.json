@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/react-forms-newsletter/static/css/main.073c9b0a.css",
-    "main.js": "/react-forms-newsletter/static/js/main.930881aa.js",
+    "main.css": "/react-forms-newsletter/static/css/main.69553e2d.css",
+    "main.js": "/react-forms-newsletter/static/js/main.b878411b.js",
     "static/js/787.6589f39c.chunk.js": "/react-forms-newsletter/static/js/787.6589f39c.chunk.js",
-    "static/media/logo.svg": "/react-forms-newsletter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-forms-newsletter/index.html",
-    "main.073c9b0a.css.map": "/react-forms-newsletter/static/css/main.073c9b0a.css.map",
-    "main.930881aa.js.map": "/react-forms-newsletter/static/js/main.930881aa.js.map",
+    "main.69553e2d.css.map": "/react-forms-newsletter/static/css/main.69553e2d.css.map",
+    "main.b878411b.js.map": "/react-forms-newsletter/static/js/main.b878411b.js.map",
     "787.6589f39c.chunk.js.map": "/react-forms-newsletter/static/js/787.6589f39c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.930881aa.js"
+    "static/css/main.69553e2d.css",
+    "static/js/main.b878411b.js"
   ]
 }
