@@ -6,7 +6,7 @@ export default function App () {
             email: "",
             password:"",
             confirmPassword:"",
-            okayToEmail: false
+            okayToEmail: true
         }
     )
     function handleChange(event){
@@ -22,18 +22,19 @@ export default function App () {
         )
     }
     function handleSubmit(event){
-        const {value} = event.target
-        const messageSuccess = "Successfully signed up"
-        const messageFailed = "passwords do not match"
         event.preventDefault()
-       
-        let message = formData.password === formData.confirmPassword ? messageSuccess : messageFailed 
-        console.log(message)
-
-        formData.okayToEmail && console.log("Thanks for signing up for our newsletter!")
-   
-        
+        if(formData.password === formData.confirmPassword) {
+            console.log("Successfully signed up")
+        } 
+        else {
+            console.log("Passwords do not match")
+            return
+        }
+        if(formData.okayToEmail) {
+            console.log("Thanks for signing up for our newsletter!")
+        }
     }
+
     return(
         <div className="form-container">
             <form className="form" onSubmit={handleSubmit}>
