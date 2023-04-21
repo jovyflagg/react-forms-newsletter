@@ -4,10 +4,8 @@ import "./style.css"
 function App() {
   return (
     <div className="App">
-     
         <Navbar />
         <Form />
-     
     </div>
   );
 }
