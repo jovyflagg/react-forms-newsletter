@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-forms-newsletter/static/css/main.fca42351.css",
+    "main.css": "/react-forms-newsletter/static/css/main.130e2002.css",
     "main.js": "/react-forms-newsletter/static/js/main.c3d3b36b.js",
     "static/js/787.6589f39c.chunk.js": "/react-forms-newsletter/static/js/787.6589f39c.chunk.js",
     "index.html": "/react-forms-newsletter/index.html",
-    "main.fca42351.css.map": "/react-forms-newsletter/static/css/main.fca42351.css.map",
+    "main.130e2002.css.map": "/react-forms-newsletter/static/css/main.130e2002.css.map",
     "main.c3d3b36b.js.map": "/react-forms-newsletter/static/js/main.c3d3b36b.js.map",
     "787.6589f39c.chunk.js.map": "/react-forms-newsletter/static/js/787.6589f39c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fca42351.css",
+    "static/css/main.130e2002.css",
     "static/js/main.c3d3b36b.js"
   ]
 }
